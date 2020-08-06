@@ -1,0 +1,43 @@
+package net.victor_jesus2.pucc.pw;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet(name = "Atividade2", urlPatterns = { "/demo" })
+public class aula2 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    public aula2() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		
+		 PrintWriter out = response.getWriter();
+
+		 out.println("<html>");
+
+		 out.println("<head>");
+
+		 out.println("<title>Atividade 2</title>");
+
+		 out.println("</head>");
+
+		 out.println("<body>");
+
+		 out.println("<h1>Oi fessor!</h1>");
+
+		 out.println("</body>");
+
+		 out.println("</html>");
+	}
+
+}

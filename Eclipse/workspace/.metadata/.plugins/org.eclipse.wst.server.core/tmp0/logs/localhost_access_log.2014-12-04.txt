@@ -1,0 +1,17 @@
+127.0.0.1 - - [04/Dec/2014:09:41:17 -0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:42:47 -0200] "GET /Pizzaria/home.jsp HTTP/1.1" 200 10112
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:42:48 -0200] "GET /Pizzaria/image/slide/next.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:42:48 -0200] "GET /Pizzaria/image/slide/prev.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:42:48 -0200] "GET /Pizzaria/image/slide/ajax-loader.gif HTTP/1.1" 404 1023
+127.0.0.1 - - [04/Dec/2014:09:46:44 -0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:46:45 -0200] "GET /Pizzaria/index.jsp HTTP/1.1" 500 2683
+127.0.0.1 - - [04/Dec/2014:09:47:46 -0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:47:47 -0200] "GET /Pizzaria/home.jsp HTTP/1.1" 200 10112
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:47:47 -0200] "GET /Pizzaria/image/slide/prev.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:47:47 -0200] "GET /Pizzaria/image/slide/next.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:47:47 -0200] "GET /Pizzaria/image/slide/ajax-loader.gif HTTP/1.1" 404 1023
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:48:05 -0200] "GET /Pizzaria/Logar?email=rybakovas@gmail.com&senha=123 HTTP/1.1" 200 186
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:48:05 -0200] "GET /Pizzaria/index.jsp HTTP/1.1" 200 15309
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:48:05 -0200] "GET /Pizzaria/image/slide/next.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:48:05 -0200] "GET /Pizzaria/image/slide/prev.png HTTP/1.1" 404 1009
+0:0:0:0:0:0:0:1 - - [04/Dec/2014:09:48:05 -0200] "GET /Pizzaria/image/slide/ajax-loader.gif HTTP/1.1" 404 1023
